@@ -8,6 +8,8 @@
 
 Herramientas360 Template es la base oficial utilizada para crear todas las herramientas del proyecto Herramientas360.
 
+URL oficial: https://tpz4hm662z-rgb.github.io/calculadora-de-peso-fetal-estimado/
+
 Su objetivo es permitir desarrollar nuevas herramientas de forma rápida, manteniendo siempre la misma calidad, estructura, diseño y optimización SEO.
 
 Todas las herramientas creadas a partir de esta plantilla comparten:
